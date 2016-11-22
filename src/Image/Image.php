@@ -106,7 +106,6 @@ class Image
         'brightness',
         'colorize',
         'contrast',
-        'resizeCanvas',
         'crop',
         'encode',
         'fit',
